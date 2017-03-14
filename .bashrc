@@ -1,4 +1,5 @@
 # ~/.bashrc: executed by bash(1) for non-login shells.
+#reviewed by eli-brown 2/28/17
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
@@ -121,6 +122,8 @@ else
     PS1='\[\e[1;32m\][\d \t \u@\h \w]\$\[\e[m\] '
 fi
 
+
+#reviewed by eli-brown 2/28/17
  /usr/games/fortune | /usr/games/cowsay -n
 
 
