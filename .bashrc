@@ -126,7 +126,7 @@ fi
 #reviewed by eli-brown 2/28/17
  /usr/games/fortune | /usr/games/cowsay -n
 
-
+#its a very nice file, I like it a lot because its a nice file that works a lot... nice -Oscar
 
 
 
